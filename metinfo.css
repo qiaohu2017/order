@@ -18,7 +18,7 @@ table {
 *{margin:0px; padding:0px;}
 
 
-html,body{ font-family: Arial, Verdana, Helvetica, sans-serif; font-size:16px; background:#ADD8E6;}
+html,body{ font-family: Arial, Verdana, Helvetica, sans-serif; font-size:20px; background:#ADD8E6;}
 div#wrapper {margin: 0 auto;width: 96%; }
 div#wrapper2 {margin:0px auto; padding:10px 0px; }
 div#header { display:none;}
@@ -44,7 +44,7 @@ input.submit:hover{background:#c2f9ff;border:1px solid #00677d;}
 p.question{ margin:0px; padding:0px;}
 table.survey-survey-description{ margin:0px !important;  }
 table.survey-survey-description .rowtitle{ padding:10px; background:#fbebdf; line-height:22px;}
-table.survey-survey-description tr.row0{ color:#4b4b4b; font-weight:normal;font-size:16px;}
+table.survey-survey-description tr.row0{ color:#4b4b4b; font-weight:normal;font-size:20px;}
 table.survey-survey-description tr.row0 td{ padding-top:8px; }
 .type_column li{ float:left; padding-right:5px;}
 
