@@ -19,7 +19,7 @@ table {
 
 
 html,body{ font-family: Arial, Verdana, Helvetica, sans-serif; font-size:16px; background:#ADD8E6;}
-div#wrapper {margin: 0 auto;width: auto; }
+div#wrapper {margin: 0 auto;width: 90%; }
 div#wrapper2 {margin:0px auto; padding:10px 0px; }
 div#header { display:none;}
 div#header .rk-2 {;height: 153px;overflow: hidden;}
